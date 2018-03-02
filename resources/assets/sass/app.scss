@@ -110,7 +110,12 @@ footer {
   }
 
 }
-
+  #logout {
+  cursor: default;
+  &:hover {
+    background-color: transparent;
+  }
+}
 
 
 /* sidebar */
